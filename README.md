@@ -1,2 +1,2 @@
-# Sz Games
+# srhshomework
 homework
